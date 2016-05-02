@@ -1,0 +1,8 @@
+Plan resavanja zadatka:
+1. Procitati zadatak
+2. Shvatiti zadatak
+3. Definisati korake preko kojih ce se doci do resenja zadatka
+4. Napraviti plan resavanja po koracima iy 3. tacke
+5. Resavati korak po korak
+6. Proveriti da li se resenje slaze sa postavkom zadatka
+7. Proslaviti uspesno resavanje zadatka

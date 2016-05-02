@@ -1,0 +1,30 @@
+1. Otvoriti Github. com nalog - R
+2. Napraviti repository na nalogu Github - R
+3. Napraviti folder u repository gde ce se cuvati fajlovi - R (cite)
+4. CILJ - napraviti single-page responsive sajt za mobilne, tablete i desktop racunare
+	prema modelima koji su dati u postavci zadatka
+5. mora se napraviti css fajl koji ce biti smesten u folderu css. Inline styles su zabranjeni
+6. Zabranjena je upotreba bilo kakvog frameworka pa ni bootstrapa. za responsive dizajn koristiti postupak iz lekcije 24 - media queries
+7. moraju se implementirati brakepoints
+		desktop > 992
+		991>tablet>768
+		767>mobile
+8. stranica se sastoji iz naslova i tri sekcije, horizontalno jedna pored druge (desktop wiew)
+9. U desktop view tri jednake kolone
+10. u tablet view dve u prvom redu po 50% i treca ispod 100%
+11. u mobile wiew jedna ispod druge
+12. izgled naslova sekcija gore desno ravnanje
+13. obratiti paznju na rastojanja izmedju sekcija, teksta i sekcija
+14. boje po zelji
+
+P L A N 
+RESAVANJA
+
+1. napraviti index html (iskopirati neki stari) -R
+2. ubaciti naslov i sekcije -R
+3. napraviti css file
+4. napraviti media queries za sva tri pregleda
+5. formatirati poicije
+6. formatirati sekcije
+7. formatirati ivice
+8. formatirati text
